@@ -1,0 +1,1 @@
+![Alt text](./Images/krypto_jobs_screenshot.png)
